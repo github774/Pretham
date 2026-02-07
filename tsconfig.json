@@ -1,0 +1,8 @@
+{
+  // ... keep existing config
+  "compilerOptions": {
+    // ... keep existing options
+    "resolveJsonModule": true,
+    "esModuleInterop": true
+  }
+}
